@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/dicetest/static/js/main.23b7c472.chunk.js",
+    "main.js.map": "/dicetest/static/js/main.23b7c472.chunk.js.map",
+    "runtime-main.js": "/dicetest/static/js/runtime-main.b2807dd9.js",
+    "runtime-main.js.map": "/dicetest/static/js/runtime-main.b2807dd9.js.map",
+    "static/css/2.150d169a.chunk.css": "/dicetest/static/css/2.150d169a.chunk.css",
+    "static/js/2.3377d59d.chunk.js": "/dicetest/static/js/2.3377d59d.chunk.js",
+    "static/js/2.3377d59d.chunk.js.map": "/dicetest/static/js/2.3377d59d.chunk.js.map",
+    "static/js/3.7d44411d.chunk.js": "/dicetest/static/js/3.7d44411d.chunk.js",
+    "static/js/3.7d44411d.chunk.js.map": "/dicetest/static/js/3.7d44411d.chunk.js.map",
+    "index.html": "/dicetest/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/dicetest/static/css/2.150d169a.chunk.css.map",
+    "static/js/2.3377d59d.chunk.js.LICENSE.txt": "/dicetest/static/js/2.3377d59d.chunk.js.LICENSE.txt",
+    "static/media/dice_sound.33384b32.wav": "/dicetest/static/media/dice_sound.33384b32.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2807dd9.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.3377d59d.chunk.js",
+    "static/js/main.23b7c472.chunk.js"
+  ]
+}
