@@ -1,0 +1,19 @@
+1. 깃에 리포지토리 만들기
+2. 리포지토리에 커밋하기
+3. package.json에   "homepage": "https://JSBeatCode.github.io/dicegame/",
+ 추가
+4. npm install gh-pages
+5. package.json에 아래 두줄 추가 script를 변경
+  "scripts": {
+	...
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
+  }
+6. npm run deploy
+
+
+git init
+git remote add origin https://github.com/JSBeatCode/dicegame.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master

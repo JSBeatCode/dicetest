@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/dicegame/static/js/main.45ce67c0.chunk.js",
+    "main.js.map": "/dicegame/static/js/main.45ce67c0.chunk.js.map",
+    "runtime-main.js": "/dicegame/static/js/runtime-main.cbb1345b.js",
+    "runtime-main.js.map": "/dicegame/static/js/runtime-main.cbb1345b.js.map",
+    "static/css/2.150d169a.chunk.css": "/dicegame/static/css/2.150d169a.chunk.css",
+    "static/js/2.c38351c9.chunk.js": "/dicegame/static/js/2.c38351c9.chunk.js",
+    "static/js/2.c38351c9.chunk.js.map": "/dicegame/static/js/2.c38351c9.chunk.js.map",
+    "static/js/3.972bedf0.chunk.js": "/dicegame/static/js/3.972bedf0.chunk.js",
+    "static/js/3.972bedf0.chunk.js.map": "/dicegame/static/js/3.972bedf0.chunk.js.map",
+    "index.html": "/dicegame/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/dicegame/static/css/2.150d169a.chunk.css.map",
+    "static/js/2.c38351c9.chunk.js.LICENSE.txt": "/dicegame/static/js/2.c38351c9.chunk.js.LICENSE.txt",
+    "static/media/0.d1cfab1e.jpg": "/dicegame/static/media/0.d1cfab1e.jpg",
+    "static/media/dice_1.a7d48074.jpg": "/dicegame/static/media/dice_1.a7d48074.jpg",
+    "static/media/dice_2.9d7f492b.jpg": "/dicegame/static/media/dice_2.9d7f492b.jpg",
+    "static/media/dice_3.c8176e70.jpg": "/dicegame/static/media/dice_3.c8176e70.jpg",
+    "static/media/dice_4.875db7d6.jpg": "/dicegame/static/media/dice_4.875db7d6.jpg",
+    "static/media/dice_5.926195e7.jpg": "/dicegame/static/media/dice_5.926195e7.jpg",
+    "static/media/dice_6.0133594c.jpg": "/dicegame/static/media/dice_6.0133594c.jpg",
+    "static/media/dice_sound.33384b32.wav": "/dicegame/static/media/dice_sound.33384b32.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbb1345b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.c38351c9.chunk.js",
+    "static/js/main.45ce67c0.chunk.js"
+  ]
+}
